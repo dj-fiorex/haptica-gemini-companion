@@ -1,0 +1,1 @@
+# Public repository for the Haptica Companion app
